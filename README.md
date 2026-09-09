@@ -1,3 +1,4 @@
+# Projeto: Controle de LED com Sensor LDR
 Projeto: Controle de LED com Sensor LDR e Arduino UNO
 📌 Descrição
 Este projeto tem como objetivo utilizar um Arduino UNO para controlar automaticamente um LED de acordo com a luminosidade do ambiente.
@@ -14,6 +15,8 @@ Resistores
 Protoboard
 Fios (jumpers)
 
+## Materiais
+
 🧰 Materiais utilizados
 
 Quantidade	Componente
@@ -27,7 +30,7 @@ Quantidade	Componente
 <img src="https://github.com/AlannaAlves/projeto_LDR_Arduino/blob/67007ca12dd74c803d8a4e5c9d9a07501345971b/1000533605.jpg" alt="Descrição da imagem">
  <img src="https://github.com/AlannaAlves/projeto_LDR_Arduino/blob/b81006717c3025be204e40f10293acda66e2dfbb/1000533604.jpg" alt="Descrição da imagem">
 
-TRECHO DO CODIGO
+## TRECHO DO CODIGO
 
 Trecho do código — Sensores → OUTPUT
 // Sensores -> OUTPUT
