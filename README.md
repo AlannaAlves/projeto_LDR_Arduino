@@ -21,3 +21,5 @@ Quantidade	Componente
 1	LED
 2	Resistores
 5	Jumper
+<img src="https://github.com/AlannaAlves/projeto_LDR_Arduino/blob/67007ca12dd74c803d8a4e5c9d9a07501345971b/1000533605.jpg" alt="Descrição da imagem">
+ <img src="" alt="Descrição da imagem">
