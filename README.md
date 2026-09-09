@@ -17,21 +17,22 @@ Fios (jumpers)
 
 ## Materiais
 
-🧰 Materiais utilizados
+## 🧰 Materiais
 
-Quantidade	Componente
-1	Arduino UNO
-1	Protoboard
-1	LDR
-1	LED
-2	Resistores
-5	Jumper
+| Quantidade | Material |
+|:----------:|----------|
+| 1 | Arduino Uno |
+| 1 | Sensor LDR |
+| 1 | LED |
+| 2 | Resistores |
+| 1 | Protoboard |
+| 4 | Jumpers |
 
 <img src="https://github.com/AlannaAlves/projeto_LDR_Arduino/blob/67007ca12dd74c803d8a4e5c9d9a07501345971b/1000533605.jpg" alt="Descrição da imagem">
  <img src="https://github.com/AlannaAlves/projeto_LDR_Arduino/blob/b81006717c3025be204e40f10293acda66e2dfbb/1000533604.jpg" alt="Descrição da imagem">
 
 ## TRECHO DO CODIGO
-
+```cpp
 Trecho do código — Sensores → OUTPUT
 // Sensores -> OUTPUT
 
